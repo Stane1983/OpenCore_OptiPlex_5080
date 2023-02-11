@@ -84,7 +84,3 @@
 Personnaly I had the best results installing Catalina and then upgrading to Ventura (you can do it without any updates as the kexts and OC are up to date (10/2/2023)
 
 
-Credit to ``omriberchman`` for the fixes and updates    
-Credit to ``Stane1983`` for the orignal files.    
-Credit to ``KirillSerogodsky`` for the markdown template and ``omriberchman`` for customizing.
-
